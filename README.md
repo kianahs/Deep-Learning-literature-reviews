@@ -1,0 +1,1 @@
+-	Critical Analysis report of vision transformers, transformers, diffusion models, and latent diffusion models.
